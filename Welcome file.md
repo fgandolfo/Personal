@@ -1,6 +1,6 @@
 # *Stream Flow* y Promedio
 ## Análisis del problema:
-La idea del programa es poder ingresar tanta cantidad de numeros como el usuario desee, acumulando mientras los valores ingresados junto con un contador, para luego cuando el usuario quiera salir del programa, se muestre el promedio de los datos ingre
+La idea del programa es poder ingresar tanta cantidad de numeros como el usuario desee, acumulando mientras los valores ingresados junto con un contador, para luego cuando el usuario quiera salir del programa, se muestre el promedio de los datos ingresados.
 ### Transcripción del problema:
 ### Refinamiento del problema e hipótesis del trabajo:
 ## Modelo IPO:
@@ -20,5 +20,5 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTAzMzY3MSwtNjEwOTAzMDY1XX0=
+eyJoaXN0b3J5IjpbOTQyNzU2MTc5LC02MTA5MDMwNjVdfQ==
 -->
