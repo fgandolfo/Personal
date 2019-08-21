@@ -2,6 +2,7 @@
 ## Análisis del problema:
 La idea del programa es poder ingresar tanta cantidad de numeros como el usuario desee, acumulando mientras los valores ingresados junto con un contador, para luego cuando el usuario quiera salir del programa, se muestre el promedio de los datos ingresados.
 ### Transcripción del problema:
+Nos enfrentamos al problema planteando un algoritmo de flujo del siguiente tipo:
 
 ### Refinamiento del problema e hipótesis del trabajo:
 ## Modelo IPO:
@@ -21,5 +22,5 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTUwNzA5OSw5NDI3NTYxNzldfQ==
+eyJoaXN0b3J5IjpbLTE4MTgxODk3OTgsOTQyNzU2MTc5XX0=
 -->
