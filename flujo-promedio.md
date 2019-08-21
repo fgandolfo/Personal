@@ -13,7 +13,8 @@ Logramos generar ese diagrama haciendo un ciclo *for* infinito donde cada vez qu
 	}
 	std::cout << acumulador/contador
 </pre>
-De esta manera, el usuario para salir debe apretar el comando *CTRL+C*, saliendo de esa manera del programa 
+De esta manera, el usuario para salir debe apretar el comando *CTRL+C*, saliendo de esa manera del programa y mostrando en pantalla el promedio de los datos ingresados.
+ 
 ## Modelo IPO:
 ### Input:
 ### Process:
@@ -31,6 +32,6 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU5MDQxMzAsLTE2Njg4MzczMiwxMj
+eyJoaXN0b3J5IjpbLTE0ODkxMjQ5NTEsLTE2Njg4MzczMiwxMj
 gyNTgxMzUyLC0xODE4MTg5Nzk4LDk0Mjc1NjE3OV19
 -->
