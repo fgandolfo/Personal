@@ -5,7 +5,7 @@ La idea del programa es poder ingresar tanta cantidad de numeros como el usuario
 Nos enfrentamos al problema planteando un algoritmo de flujo del siguiente tipo:
 
 ### Refinamiento del problema e hipótesis del trabajo:
-Logramos generar ese diagrama haciendo un ciclo *for* infinito
+Logramos generar ese diagrama haciendo un ciclo *for* infinito donde cada vez que se de un *loop* al ciclo se pida un ingreso por teclado 
 ## Modelo IPO:
 ### Input:
 ### Process:
@@ -23,6 +23,6 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NDQ0OTEwLC0xODE4MTg5Nzk4LDk0Mj
-c1NjE3OV19
+eyJoaXN0b3J5IjpbLTE1NTk3NTY0NTUsLTE4MTgxODk3OTgsOT
+QyNzU2MTc5XX0=
 -->
