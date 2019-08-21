@@ -7,11 +7,10 @@ Nos enfrentamos al problema planteando un algoritmo de flujo del siguiente tipo:
 ### Refinamiento del problema e hipótesis del trabajo:
 Logramos generar ese diagrama haciendo un ciclo *for* infinito donde cada vez que se de un *loop* al ciclo se pida un ingreso por teclado de un valor numérico, el cual a medida que avanza el ciclo ese valor se suma a un acumulador y un contador va incrementando en una unidad su tamaño.
 
->`for (int x; std::cin >> x) {
->contador += 1
->s += x`
->}
+>for (int x; std::cin << x) {
 
+><
+><
 ## Modelo IPO:
 ### Input:
 ### Process:
@@ -29,6 +28,6 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg4OTIxNjcsMTI4MjU4MTM1MiwtMT
+eyJoaXN0b3J5IjpbLTE2NTM2NDg2MjIsMTI4MjU4MTM1MiwtMT
 gxODE4OTc5OCw5NDI3NTYxNzldfQ==
 -->
