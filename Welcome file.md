@@ -1,4 +1,4 @@
-# Modelo IPO
+# *Stream Flow* y Promedio
 
 
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTc3MTE3NV19
+eyJoaXN0b3J5IjpbLTE1OTA4NTgzNTFdfQ==
 -->
