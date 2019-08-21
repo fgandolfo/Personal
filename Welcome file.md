@@ -1,14 +1,8 @@
 # *Stream Flow* y Promedio
-
-
-
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+## Análisis del problema:
+### Transcripción del problema:
+### Refinamiento del problema e hipótesis del trabajo:
+## Modelo IPO:
 
 ## Switch to another file
 
@@ -141,5 +135,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA4NTgzNTFdfQ==
+eyJoaXN0b3J5IjpbNTc3MDExODc2XX0=
 -->
