@@ -17,6 +17,7 @@ De esta manera, el usuario para salir debe apretar el comando *CTRL+C*, saliendo
  
 ## Modelo IPO:
 ### Input:
+$\RealNumbers$
 ### Process:
 ### Output:
 
@@ -32,6 +33,7 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkxMjQ5NTEsLTE2Njg4MzczMiwxMj
-gyNTgxMzUyLC0xODE4MTg5Nzk4LDk0Mjc1NjE3OV19
+eyJoaXN0b3J5IjpbLTY0ODI4MjI2MywtMTQ4OTEyNDk1MSwtMT
+Y2ODgzNzMyLDEyODI1ODEzNTIsLTE4MTgxODk3OTgsOTQyNzU2
+MTc5XX0=
 -->
