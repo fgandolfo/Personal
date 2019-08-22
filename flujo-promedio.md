@@ -17,8 +17,9 @@ De esta manera, el usuario para salir debe apretar el comando *CTRL+C*, saliendo
  
 ## Modelo IPO:
 ### Input:
-$\RealNumbers$
+Como entrada de datos vamos a tener los números reales ($\real$) ingresados por el usuario a través del teclado.
 ### Process:
+El proceso va a ser llevado a cabo en el ciclo *for* mencionado anteriormente, incrementando en una 
 ### Output:
 
 ## KaTeX
@@ -33,7 +34,7 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODI4MjI2MywtMTQ4OTEyNDk1MSwtMT
-Y2ODgzNzMyLDEyODI1ODEzNTIsLTE4MTgxODk3OTgsOTQyNzU2
-MTc5XX0=
+eyJoaXN0b3J5IjpbOTEwMTczNzEwLC0xNDg5MTI0OTUxLC0xNj
+Y4ODM3MzIsMTI4MjU4MTM1MiwtMTgxODE4OTc5OCw5NDI3NTYx
+NzldfQ==
 -->
