@@ -1,6 +1,6 @@
 # *Stream Flow* y Promedio
 ## Análisis del problema:
-La idea del programa es poder ingresar tanta cantidad de numeros como el usuario desee, acumulando mientras los valores ingresados junto con un contador, para luego cuando el usuario quiera salir del programa, se muestre el promedio de los datos ingresados.
+La idea del programa es poder ingresar tanta cantidad de numeros como el usuario desee, acumulando mientras la sumatoria de los valores ingresados junto con un contador, para luego cuando el usuario quiera salir del programa, se muestre el promedio de los datos ingresados.
 ### Transcripción del problema:
 Nos enfrentamos al problema planteando un algoritmo de flujo del siguiente tipo:
 
@@ -19,9 +19,9 @@ De esta manera, el usuario para salir debe apretar el comando *CTRL+C*, saliendo
 ### Input:
 Como entrada de datos vamos a tener los números reales ($\real$) ingresados por el usuario a través del teclado.
 ### Process:
-El proceso va a ser llevado a cabo en el ciclo *for* mencionado anteriormente, incrementando en una 
+El proceso va a ser llevado a cabo en el ciclo *for* mencionado anteriormente, incrementando en una unidad el contador y acumulando la sumatoria de los valores ingresados.
 ### Output:
-
+Como salida de datos tenemo
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
@@ -34,7 +34,7 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMTczNzEwLC0xNDg5MTI0OTUxLC0xNj
-Y4ODM3MzIsMTI4MjU4MTM1MiwtMTgxODE4OTc5OCw5NDI3NTYx
-NzldfQ==
+eyJoaXN0b3J5IjpbLTEwNjI4MzIzMDksLTE0ODkxMjQ5NTEsLT
+E2Njg4MzczMiwxMjgyNTgxMzUyLC0xODE4MTg5Nzk4LDk0Mjc1
+NjE3OV19
 -->
