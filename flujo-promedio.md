@@ -21,20 +21,9 @@ Como entrada de datos vamos a tener los números reales ($\real$) ingresados por
 ### Process:
 El proceso va a ser llevado a cabo en el ciclo *for* mencionado anteriormente, incrementando en una unidad el contador y acumulando la sumatoria de los valores ingresados.
 ### Output:
-Como salida de datos tenemo
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+Como salida de datos tenemos una muestra en pantalla del promedio de todos los datos ingresados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI4MzIzMDksLTE0ODkxMjQ5NTEsLT
-E2Njg4MzczMiwxMjgyNTgxMzUyLC0xODE4MTg5Nzk4LDk0Mjc1
-NjE3OV19
+eyJoaXN0b3J5IjpbOTg0OTIxODE1LC0xNDg5MTI0OTUxLC0xNj
+Y4ODM3MzIsMTI4MjU4MTM1MiwtMTgxODE4OTc5OCw5NDI3NTYx
+NzldfQ==
 -->
